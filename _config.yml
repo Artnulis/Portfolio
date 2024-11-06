@@ -14,7 +14,7 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : https://artnulis.lt # the base hostname & protocol for your site, e.g. http://example.com
+url    : https://artnulis.lt
 // Not used anymore
 enforce_ssl: https://artnulis.lt
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
